@@ -1,0 +1,1 @@
+print("Deneme dosyam bu benim denyiroum sileceğim")

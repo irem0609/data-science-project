@@ -1,1 +1,0 @@
-print("Öğrenme sürecindeyim deniyorum sileceğim bu dosyayı :D")

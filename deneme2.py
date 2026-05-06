@@ -1,1 +1,0 @@
-print("bu benim deneme dosyam ve bu dosya githuba yüklenecek")

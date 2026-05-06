@@ -1,1 +1,0 @@
-print("Bu dosya can-dev branchinde eklendi.")

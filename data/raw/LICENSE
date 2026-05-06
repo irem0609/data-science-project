@@ -1,5 +1,5 @@
 # Data Set Licenses
 - [University Student Performance & Habits Dataset by ROBIUL HASAN JISAN](https://www.kaggle.com/datasets/robiulhasanjisan/university-student-performance-and-habits-dataset): 
-This data set is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
-- [Student Mental health by MD SHARIFUL ISLAM](https://www.kaggle.com/datasets/shariful07/student-mental-health%E2%81%A0): This data set is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
-- [Gaming vs Academic Performance by ASPER](https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance): This data set is licensed under the [MIT](https://www.mit.edu/~amini/LICENSE.md) license.
+This data set is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. File [student.csv](./student.csv).
+- [Student Mental health by MD SHARIFUL ISLAM](https://www.kaggle.com/datasets/shariful07/student-mental-health%E2%81%A0): This data set is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license. File [mental.csv](./mental.csv).
+- [Gaming vs Academic Performance by ASPER](https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance): This data set is licensed under the [MIT](https://www.mit.edu/~amini/LICENSE.md) license. File [gaming.csv](./gaming.csv).

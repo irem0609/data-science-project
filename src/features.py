@@ -22,8 +22,6 @@ def process_gaming_features(df):
 def process_mental_features(df):
     # Aggregate score of binary mental health indicators
     df["total_mental_risk"] = df["depression"] + df["anxiety"] + df["panic_attack"]
-    # CGPA relative to age
-    df["academic_progress_rate"] = df["final_cgpa"] / df["age"]
     return df
 
 
